@@ -1,4 +1,4 @@
-**Tittle 3: Managing Docker Container**
+**Chapter 3: Managing Docker Container**
 -
 **1. Managing the Life Cycle of Containers - 1**
 Docker has a number of commands that can be used to create and manage containers. The following is a summary of the most frequently used commands to change container state.
