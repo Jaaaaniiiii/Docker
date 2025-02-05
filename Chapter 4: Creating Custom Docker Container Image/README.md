@@ -1,4 +1,4 @@
-**Tittle 4: Creating Custom Docker Container Image**
+**Chapter 4: Creating Custom Docker Container Image**
 -
 **Docker images**
 What is Docker Images?
