@@ -1,4 +1,4 @@
-**Tittle 11: Storage Driver**
+**Chapter 11: Storage Driver**
 -
 **1. Docker Storage Drivers**
 The storage driver plays a role in providing users with access to the writeable container layer. The storage driver also plays a role in storing and managing images and containers on the user&#39;s Docker host. The following storage drivers can be used in Docker:
